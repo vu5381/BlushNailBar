@@ -1705,7 +1705,7 @@ ol.digit-list p {
 }
 
 #hero-6 {
-  background-image: url(../images/NailsBG3.jpg);
+  background-image: url(../images/NailsBG.jpg);
   padding-top: 180px;
   padding-bottom: 110px;
   background-position: center 80%;
@@ -1718,7 +1718,7 @@ ol.digit-list p {
 }
 
 #hero-11 {
-  background-image: url(../images/NailsBG3.jpg);
+  background-image: url(../images/hero-11.jpg);
   padding-top: 160px;
   padding-bottom: 110px;
 }
@@ -2026,9 +2026,7 @@ ol.digit-list p {
   letter-spacing: 2px;
   margin-bottom: 20px;
 }
-.blushH2 {
-  font-weight:bolder;
-}
+
 #hero-11 h2 {
   font-size: 8.75rem;
   line-height: 1.2;
@@ -2103,10 +2101,9 @@ ol.digit-list p {
 }
 
 .hero-11-txt p {
-  font-size: 3rem;
+  font-size: 1.35rem;
   padding: 0 15%;
   margin-bottom: 35px;
-  font-weight: bolder;
 }
 
 #hero-12 .caption-txt p {
@@ -2646,12 +2643,10 @@ ol.digit-list p {
 
 #s13-1 {
   background-image: url(../images/Manicure4-noBG.png);
-  /* background-position: right bottom; */
 }
 
 #s13-2 {
   background-image: url(../images/s13-4.png);
-  
 }
 
 #s13-3 {
@@ -2660,7 +2655,7 @@ ol.digit-list p {
 }
 
 #s13-4 {
-  background-image: url(../images/WaxingNoBG.png);
+  background-image: url(../images/WaxingKitNoBG2.png);
 }
 
 .sbox-14 {
