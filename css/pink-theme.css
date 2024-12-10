@@ -299,6 +299,11 @@ body {
   background-position: center center;   
   background-size: cover;
 }
+.hero-bg{
+  width: 100%;
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
 
 .bg-scroll {
   background-attachment: fixed!important;
