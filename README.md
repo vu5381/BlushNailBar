@@ -1,3 +1,3 @@
 ﻿# BlushNailBar
- [BlushNailBar](https://blushnailbarannapolis.netlify.app/)
+ [<img src="images/BlushNailBarWebpage.png" alt="blush nail bar web page">](https://blushnailbarannapolis.netlify.app/)
 
