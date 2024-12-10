@@ -1,3 +1,3 @@
 ﻿# BlushNailBar
- [](https://blushnailbarannapolis.netlify.app/)
+ [BlushNailBar](https://blushnailbarannapolis.netlify.app/)
 
